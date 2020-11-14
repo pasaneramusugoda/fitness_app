@@ -1,0 +1,19 @@
+<svg height="17" viewBox="0 0 18.84 17" width="18.84" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient gradientUnits="objectBoundingBox" id="linear-gradient" x2="0.984" y1="0.03"
+        y2="1">
+      <stop offset="0" stop-color="#474bd9" />
+      <stop offset="1" stop-color="#6b88e8" />
+    </linearGradient>
+  </defs>
+  <g id="ic_cardiogram" transform="translate(0 -25.006)">
+    <path
+        d="M9.415,26.569A5.524,5.524,0,0,0,.921,33.543H4.981l.722-1.2a.552.552,0,0,1,.939-.012l1.524,2.395,2.221-4.69a.552.552,0,0,1,.985-.025l1.9,3.536h4.632a5.531,5.531,0,0,0-8.494-6.974Z"
+        data-name="Path 1544" fill="url(#linear-gradient)" id="Path_1544"
+        transform="translate(0)" />
+    <path
+        d="M59.414,204.129l-1.543-2.866-2.182,4.606a.552.552,0,0,1-.964.06l-1.581-2.484-.424.706a.552.552,0,0,1-.473.268h-3.5c.11.115-.475-.469,7.232,7.2a.552.552,0,0,0,.778,0c7.588-7.549,7.122-7.084,7.232-7.2H59.9A.552.552,0,0,1,59.414,204.129Z"
+        data-name="Path 1545" fill="url(#linear-gradient)" id="Path_1545"
+        transform="translate(-46.952 -169.772)" />
+  </g>
+</svg>

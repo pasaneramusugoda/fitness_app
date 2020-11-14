@@ -1,0 +1,52 @@
+name: fitness_app
+description: A new Flutter application.
+publish_to: none
+version: 1.0.0+1
+environment:
+  sdk: '>=2.7.0 <3.0.0'
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.0
+  stacked: ^1.7.6
+  flutter_screenutil: ^3.2.0
+  flutter_neumorphic: ^3.0.3
+  google_fonts: ^1.1.1
+  r_dart_library:
+    git:
+      url: https://github.com/YK-Unit/r_dart_library.git
+      ref: 0.2.1
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+flutter:
+  uses-material-design: true
+  fonts:
+    - family: LouisGeorgeCafe
+      fonts:
+        - asset: packages/fitness_app/assets/fonts/LouisGeorgeCafe/LouisGeorgeCafe.ttf
+        - asset: packages/fitness_app/assets/fonts/LouisGeorgeCafe/LouisGeorgeCafeBold.ttf
+        - asset: packages/fitness_app/assets/fonts/LouisGeorgeCafe/LouisGeorgeCafeBoldItalic.ttf
+        - asset: packages/fitness_app/assets/fonts/LouisGeorgeCafe/LouisGeorgeCafeItalic.ttf
+        - asset: packages/fitness_app/assets/fonts/LouisGeorgeCafe/LouisGeorgeCafeLight.ttf
+        - asset: packages/fitness_app/assets/fonts/LouisGeorgeCafe/LouisGeorgeCafeLightItalic.ttf
+  assets:
+    - packages/fitness_app/assets/images/home/ic_advanced.svg
+    - packages/fitness_app/assets/images/home/ic_arrow_forward.svg
+    - packages/fitness_app/assets/images/home/ic_cardiogram.svg
+    - packages/fitness_app/assets/images/home/ic_search.svg
+    - packages/fitness_app/assets/images/home/ic_stopwatch.svg
+    - packages/fitness_app/assets/images/home/ic_trail_running_shoe.svg
+    - packages/fitness_app/assets/images/home/ic_weight.svg
+    - packages/fitness_app/assets/images/home/person_image_1.png
+    - packages/fitness_app/assets/images/main/ic_activity.svg
+    - packages/fitness_app/assets/images/main/ic_home.svg
+    - packages/fitness_app/assets/images/main/ic_profile.svg
+    - packages/fitness_app/assets/images/main/ic_settings.svg
+flr:
+  core_version: 3.1.0
+  dartfmt_line_length: 80
+  assets:
+    - lib/assets/images
+  fonts:
+    - lib/assets/fonts

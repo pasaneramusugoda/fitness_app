@@ -1,0 +1,25 @@
+<svg height="17.492" viewBox="0 0 17.341 17.492" width="17.341" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient gradientUnits="objectBoundingBox" id="linear-gradient" x2="0.984" y1="0.03"
+        y2="1">
+      <stop offset="0" stop-color="#474bd9" />
+      <stop offset="1" stop-color="#6b88e8" />
+    </linearGradient>
+  </defs>
+  <g id="ic_weight" transform="translate(-2.196)">
+    <g data-name="Group 20" id="Group_20" transform="translate(2.196 3.054)">
+      <path
+          d="M10.354,95.734a5.268,5.268,0,0,1-4.619-6.418l-1.5.124A2.22,2.22,0,0,0,2.2,91.769l.514,9.879a2.221,2.221,0,0,0,2.22,2.105h5.421Z"
+          data-name="Path 1249" fill="url(#linear-gradient)" id="Path_1249"
+          transform="translate(-2.196 -89.316)" />
+      <path
+          d="M276.869,89.44l-1.5-.124a5.268,5.268,0,0,1-4.619,6.418v8.019h5.421a2.221,2.221,0,0,0,2.22-2.105l.514-9.879A2.22,2.22,0,0,0,276.869,89.44Z"
+          data-name="Path 1250" fill="url(#linear-gradient)" id="Path_1250"
+          transform="translate(-261.566 -89.316)" />
+    </g>
+    <path
+        d="M135.99,0a4.236,4.236,0,1,0,4.24,4.236A4.243,4.243,0,0,0,135.99,0Zm.513,4.27a.513.513,0,0,1-1.026,0V2.46a.513.513,0,0,1,1.026,0Z"
+        data-name="Path 1251" fill="url(#linear-gradient)" id="Path_1251"
+        transform="translate(-125.124)" />
+  </g>
+</svg>

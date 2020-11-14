@@ -1,0 +1,20 @@
+<svg height="10.5" viewBox="0 0 9.533 10.5" width="9.533" xmlns="http://www.w3.org/2000/svg">
+    <g id="ic_stopwatch" transform="translate(-23.758 0.25)">
+        <g data-name="Group 2356" id="Group_2356" transform="translate(24.009)">
+            <g data-name="Group 2355" id="Group_2355" transform="translate(0)">
+                <path
+                    d="M33.039,5.369a4.515,4.515,0,0,0-1.132-2.877l.71-.679a.161.161,0,1,0-.213-.243l-.01.01-.71.679c-.016-.016-.032-.034-.05-.05A4.493,4.493,0,0,0,28.685.972s0,0,0,0V.323h.484a.161.161,0,1,0,0-.323h-1.29a.161.161,0,1,0,0,.323h.484V.972A4.516,4.516,0,0,0,28.521,10l.12,0A4.515,4.515,0,0,0,33.039,5.369ZM28.633,9.676a4.194,4.194,0,0,1-.216-8.384h.111a4.194,4.194,0,0,1,.105,8.386Z"
+                    data-name="Path 1554" id="Path_1554" stroke="#fff" stroke-width="0.5"
+                    transform="translate(-24.009 0)" />
+            </g>
+        </g>
+        <g data-name="Group 2358" id="Group_2358" transform="translate(25.779 2.77)">
+            <g data-name="Group 2357" id="Group_2357">
+                <path
+                    d="M114.544,139.471a.649.649,0,0,0-.354.1l-2.126-2.126a.161.161,0,0,0-.228.228l2.136,2.136a.637.637,0,0,0-.081.3.649.649,0,1,0,.653-.645Zm-.008.968a.323.323,0,1,1,.323-.323A.323.323,0,0,1,114.536,140.439Z"
+                    data-name="Path 1555" id="Path_1555" stroke="#fff" stroke-width="0.5"
+                    transform="translate(-111.79 -137.403)" />
+            </g>
+        </g>
+    </g>
+</svg>
